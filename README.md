@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="https://github.com/Lucas-Cappra">Olá, eu sou Pedro</a>
+    <a href="https://github.com/Lucas-Cappra">Olá, eu sou Cappra!</a>
 </h1>
 
 > Meu nome é Lucas Cappra, tenho 23 anos e sou estudante de Ciências e Tecnologia com ênfase em Mecatrônica na Universidade Federal do Rio Grande do Norte (UFRN). Estou envolvido em diversos projetos e atividades que refletem meu interesse e dedicação nas áreas de eletrônica, mecatrônica e programação.
